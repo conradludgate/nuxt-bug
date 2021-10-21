@@ -1,0 +1,11 @@
+{
+  "name": "nuxt-mdx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@mdx-js/mdx": "^2.0.0-rc.1",
+    "@nuxt/kit": "npm:@nuxt/kit-edge@3.0.0-27245975.d1214c9",
+    "unplugin": "^0.2.16"
+  }
+}

@@ -9,6 +9,6 @@
     "nuxt3": "latest"
   },
   "dependencies": {
-    "@mdx-js/mdx": "^2.0.0-rc.1"
+    "nuxt-mdx": "./nuxt-mdx"
   }
 }
